@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 方言
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:49.686930
+#+PROPERTY: ID KR1j0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0014-008方言-卷第八.
 <pb:KR1j0006_SBCK_008-1a>¶
 猶軒使者絶代語釋別國方言第八¶
 虎陳魏宋楚之間或謂之李父江淮南楚之¶
@@ -61,4 +65,3 @@
 雞雛徐魯之間謂之秋侯子(子幽反徐今下/邳僮縣東南大)¶
 (徐城/是也)¶
 輶軒使者絶代語釋別國方言第八¶
-

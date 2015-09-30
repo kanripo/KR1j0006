@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 方言
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:49.722144
+#+PROPERTY: ID KR1j0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0014-009方言-卷第九.
 <pb:KR1j0006_SBCK_009-1a>¶
 輶軒使者絶代語釋別國方言第九¶
 戟楚謂之(取名於/鈎釨也)凡戟而無刃秦晉之間¶
@@ -83,4 +87,3 @@
 <pb:KR1j0006_SBCK_009-5b>¶
 ¶
 輶軒使者絶代語釋別國方言第九¶
-

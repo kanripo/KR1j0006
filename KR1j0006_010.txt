@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 方言
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:49.762238
+#+PROPERTY: ID KR1j0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0014-010方言-卷第十.
 <pb:KR1j0006_SBCK_010-1a>¶
 輶軒使者絶代語釋別國方言第十¶
 媱愓遊也江沅之間謂戲爲媱或謂之愓(音/羊)¶
@@ -120,4 +124,3 @@
 謂之柤或謂之樝¶
 &KR1665;(音/汎)僄(飄/零)輕也楚凡相輕薄謂之相&KR1665;或謂¶
 之僄也　卷終¶
-

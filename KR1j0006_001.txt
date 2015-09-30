@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 方言
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:49.431875
+#+PROPERTY: ID KR1j0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0014-001方言-卷第一.
 <pb:KR1j0006_SBCK_001-1a>¶
 輶軒使者絶代語釋別國方言第一¶
 黨曉哲知也楚謂之黨(黨朗也/解寤㒵)或曰曉齊宋¶
@@ -146,4 +150,3 @@
 曰薄努自&KR0028;而東周鄭之間曰勔釗(沉/湎)齊魯¶
 曰勖兹(勖勔亦/訓勉也)¶
 輶軒使者絶代語釋別國方言第一¶
-

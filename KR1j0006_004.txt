@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 方言
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:49.541385
+#+PROPERTY: ID KR1j0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0014-004方言-卷第四.
 <pb:KR1j0006_SBCK_004-1a>¶
 輶軒使者絶代語釋別國方言第四¶
 襌衣江淮南楚之間謂之褋(楚辭曰遺佘褋/兮澧浦音簡牒)¶
@@ -84,4 +88,3 @@
 緉或謂之&KR2413;絞通語也¶
 纑謂之縝(謂纑縷/也音振)¶
 輶軒使者絶代語釋別國方言第四¶
-

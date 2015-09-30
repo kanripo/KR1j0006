@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 方言
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:49.615648
+#+PROPERTY: ID KR1j0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB01n0014-006方言-卷第六.
 <pb:KR1j0006_SBCK_006-1a>¶
 輶軒使者絶代語釋別國方言第六¶
 聳　欲也(皆強欲也/山頂也)荆呉之間曰聳晉趙曰¶
@@ -115,4 +119,3 @@
 掩翳薆也(謂蔽薆也詩曰/薆而不見音愛)¶
 佚惕緩也(跌唐/兩音)¶
 輶軒使者絶代語釋別國方言第六¶
-

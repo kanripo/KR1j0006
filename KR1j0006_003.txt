@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 方言
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:49.506383
+#+PROPERTY: ID KR1j0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0014-003方言-卷第三.
 <pb:KR1j0006_SBCK_003-1a>¶
 輶軒使者絶代語釋別國方言第三¶
 陳楚之間凡人嘼乳而雙産謂之&KR0117;孳(音/兹)秦¶
@@ -114,4 +118,3 @@
 憭(慧憭皆/意精明)或謂之瘳或謂之蠲(蠲亦除也音/㳙一圭反)¶
 <pb:KR1j0006_SBCK_003-7a>¶
 <pb:KR1j0006_SBCK_003-8a>¶
-

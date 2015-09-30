@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 方言
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:49.653333
+#+PROPERTY: ID KR1j0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB01n0014-007方言-卷第七.
 <pb:KR1j0006_SBCK_007-1a>¶
 輶軒使者絶代語釋別國方言第七¶
 諄憎所疾也(之潤/反)宋魯凡相惡謂之諄憎&KR0002;¶
@@ -85,4 +89,3 @@
 <pb:KR1j0006_SBCK_007-5b>¶
 ¶
 輶軒使者絶代語釋別國方言第七¶
-

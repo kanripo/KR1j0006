@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 方言
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:49.576992
+#+PROPERTY: ID KR1j0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB01n0014-005方言-卷第五.
 <pb:KR1j0006_SBCK_005-1a>¶
 輶軒使者絶代語釋別國方言第五¶
 鍑(釡屬也/音富)北燕朝鮮洌水之間或謂之錪(音/腆)¶
@@ -128,4 +132,3 @@
 之曲道¶
 圍棊謂之弈自&KR0028;而東齊魯之間皆謂之弈¶
 輶軒使者絶代語釋別國方言第五¶
-

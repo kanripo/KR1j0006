@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 方言
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:49.835383
+#+PROPERTY: ID KR1j0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB01n0014-012方言-卷第十二.
 <pb:KR1j0006_SBCK_012-1a>¶
 輶軒使者絶代語釋別國方言第十二¶
 爰喛哀也(喛哀而恚/也音段)¶
@@ -134,4 +138,3 @@
 箇枚也(爲枚數也/古餓反)¶
 一蜀也南楚謂之獨(蜀猶/獨耳)¶
 輶軒使者絶代語釋別國方言第十二¶
-

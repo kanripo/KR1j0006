@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 方言
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:49.470505
+#+PROPERTY: ID KR1j0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0014-002方言-卷第二.
 <pb:KR1j0006_SBCK_002-1a>¶
 輶軒使者絶代語釋別國方言第二¶
 釥(錯眇/反)嫽(洛夭/反)好也青徐海岱之間曰釥或¶
@@ -115,4 +119,3 @@
 楚謂之劋或曰蹶(言踣/蹶也)楚鄭曰蔿(音指撝亦/或聲之轉)¶
 (也)或曰姡(言&KR0219;姡也今建平郡/人呼姣爲姡胡刮反)¶
 輶軒使者絶代語釋別國方言第二¶
-
